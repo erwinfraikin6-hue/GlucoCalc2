@@ -1,0 +1,7 @@
+{
+  "name": "GlucoCalc Jinte",
+  "description": "Een intelligente insulinecalculator die geavanceerde technologie gebruikt om koolhydraten in voedsel te schatten en diabetici helpt hun insuline-inname te beheren.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
